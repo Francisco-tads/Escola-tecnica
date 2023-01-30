@@ -5,7 +5,7 @@
 
 https://francisco-tads.github.io/Escola-tecnica/
 
-Nesse projeto usei apenas Html, CSS, JavaScript e bootstrap, foi desenvolvido para Web e Mobile e toda sua estrutura de código, pode ser visualizada também no Github.
+Nesse projeto foi usado apenas Html, CSS, JavaScript e bootstrap, foi desenvolvido para Web e Mobile e toda sua estrutura de código, pode ser visualizada também no Github.
  [Escola-técnica/TI](https://francisco-tads.github.io/Escola-tecnica/ "Site do Escola-técnica/TI").
 
 
